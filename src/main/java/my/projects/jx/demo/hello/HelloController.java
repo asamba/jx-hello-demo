@@ -12,6 +12,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello(){
-        return "Hello World from WIP branch!";
+        return "Hello World from WIP branch 22!";
     }
 }
